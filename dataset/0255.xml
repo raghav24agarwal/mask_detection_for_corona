@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>0255.jpg</filename>
+	<path>C:\Users\Public.cz-PC\Desktop\New folder\RWMFD_part_1\0001\images\0255.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>70</xmin>
+			<ymin>50</ymin>
+			<xmax>89</xmax>
+			<ymax>60</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>173</xmin>
+			<ymin>45</ymin>
+			<xmax>189</xmax>
+			<ymax>57</ymax>
+		</bndbox>
+	</object>
+</annotation>
