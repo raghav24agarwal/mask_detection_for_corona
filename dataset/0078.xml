@@ -1,0 +1,38 @@
+<annotation>
+	<folder>New folder</folder>
+	<filename>0078.jpg</filename>
+	<path>C:\Users\Roshan.FIREBALL\Downloads\Compressed\Roshan\New folder\0078.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>226</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymin>161</ymin>
+			<xmax>115</xmax>
+			<ymax>243</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>128</xmin>
+			<ymin>153</ymin>
+			<xmax>183</xmax>
+			<ymax>202</ymax>
+		</bndbox>
+	</object>
+</annotation>
